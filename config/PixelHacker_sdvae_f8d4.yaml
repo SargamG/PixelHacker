@@ -1,5 +1,5 @@
 data:
-  image_size: 512
+  image_size: 256
 
 
 vae:
